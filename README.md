@@ -2,7 +2,7 @@
 	<img src="https://github.com/carlosmolinahutt/ESR-Lab-Repositories/blob/master/esrlab.png" 
 	     
 	     
-<p align="center">
+<p align="middle">
 	<b>Tool for Assessing Earthquake Induced Downtime and Modeling Recovery of Buildings</b>
 </p>
 
