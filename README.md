@@ -24,3 +24,7 @@ This tool is fully compatible with SimCenter’s tool for loss assessment, i.e.,
 ```
 pip install treads
 ```
+
+## Contact
+
+Pouria Kourehpaz, University of British Columbia, Vancouver, BC, Canada. email: pouria.kourehpaz@ubc.ca
