@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-	<b>Tool for Recovery Estimation And Downtime Simulation</b>
+	<b>Tool for building Recovery Estimation And Downtime Simulation</b>
 	    
 </p>
 
