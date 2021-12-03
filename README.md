@@ -15,3 +15,12 @@
 Molina Hutt, C., Vahanvaty, T. and Kourehpaz, P. (2021). “An analytical framework to assess earthquake induced downtime and model recovery of buildings.” *Earthquake Spectra*, Accepted.
 
 This tool is fully compatible with SimCenter’s tool for loss assessment, i.e., pelicun (https://github.com/NHERI-SimCenter/pelicun) 
+
+
+## Installation
+
+`treads` is available at the Python Package Index (PyPI). You can simply install it using `pip` as follows:
+
+```
+pip install treads
+```
