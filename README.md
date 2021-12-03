@@ -10,7 +10,7 @@
 
 ## What is it?
 
-`treads` is a Python package that implements the framework presented in: 
+`treads` is a Python package to evaluate earthquake induced downtime and model recovery of buildings. This tool implements the framework presented in: 
 
 Molina Hutt, C., Vahanvaty, T. and Kourehpaz, P. (2021). “An analytical framework to assess earthquake induced downtime and model recovery of buildings.” *Earthquake Spectra*, Accepted.
 
