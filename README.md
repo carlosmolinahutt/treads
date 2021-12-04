@@ -3,8 +3,7 @@
 	height="350"/>
 </p>
 
-<p align="center">
-	<b>Tool for Recovery Estimation And Downtime Simulation of buildings</b>
+<h1 align = "center"> TREADS: Tool for Recovery Estimation And Downtime Simulation of buildings</h1>
 	    
 </p>
 
