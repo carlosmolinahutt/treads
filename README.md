@@ -11,7 +11,7 @@
 
 `treads` is a Python package to evaluate earthquake induced downtime and model recovery of buildings. This tool implements the framework presented in: 
 
-Molina Hutt, C., Vahanvaty, T. and Kourehpaz, P. (2021). “An analytical framework to assess earthquake induced downtime and model recovery of buildings.” *Earthquake Spectra*, Accepted.
+Molina Hutt, C., Vahanvaty, T. and Kourehpaz, P. (2022). “An analytical framework to assess earthquake induced downtime and model recovery of buildings.” *Earthquake Spectra*, 38(2): 1283-1320. https://doi.org/10.1177%2F87552930211060856 
 
 This tool is fully compatible with SimCenter’s tool for loss assessment, i.e., pelicun (https://github.com/NHERI-SimCenter/pelicun) 
 
