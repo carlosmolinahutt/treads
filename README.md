@@ -59,10 +59,6 @@ DT_calculation.run_treads(input_parameters, RCtable_input, IF_delays_input, DMG_
 - **RT_RSeq_xx.csv:**  Repair time per story for each repair sequence when each recovery state is achieved (xx= FR, RO, SiP).
 - **IF_delays.csv:**  Impeding factor delays. 
 
-
-## Tutorials
-YouTube tutorials coming soon.
-
 ## Contact
 
 Pouria Kourehpaz, University of British Columbia, Vancouver, BC, Canada. email: pouria.kourehpaz@ubc.ca
